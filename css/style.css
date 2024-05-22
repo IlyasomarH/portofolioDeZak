@@ -1,0 +1,60 @@
+
+
+:root{
+    --colorP:#D91212;
+}
+
+
+.text-danger{
+    color: var(--colorP)!important;
+}
+
+.btn-danger{
+    background-color: var(--colorP)!important;
+}
+
+section.s1{
+    background-image: url('../images/Group\ 248.png');
+}
+
+
+
+div.col-4:first-child{
+
+
+    margin-top: 200px!important;
+    margin-left: 55px;
+}
+
+div.col-6 img{
+    transform: rotateY(3.142rad);
+}
+
+
+
+h2.fs-5{
+    font-size: 1em!important;
+}
+
+div.row div.col-6 img{
+
+    width: 20%!important;
+   
+
+}
+
+
+
+
+
+
+section.s3{
+    background-color: #FFEFEF!important;
+}
+
+
+section.s3 div.col-6 img{
+
+    margin-left: 155px;
+
+}
